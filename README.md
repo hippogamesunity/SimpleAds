@@ -52,5 +52,5 @@ The most simple way to display ads in your app is to use `LevelPlay` with `Unity
 * [YandexAds](https://ads.yandex.com/monetization/)
 
 ### Support
-[Discord](https://discord.gg/4ht2AhW)
-[Bugs](https://github.com/hippogamesunity/SimpleAds/issues)
+* [Discord](https://discord.gg/4ht2AhW)
+* [Bugs](https://github.com/hippogamesunity/SimpleAds/issues)
