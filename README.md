@@ -1,6 +1,6 @@
 **Simple Ads** is a plugin for Unity to boost ad networks integration. It provides a unified interface to show ads with no need to learn SDK docs.
 
-Install ad network plugins, setup app keys and placement IDs. And then just show ads with 1 call. You don't need to learn SDK docs, initialize plugins, load and reload ads, subscribe to events an other boring things. The wrapper hides low-level things and provides unified high-level functions like showing ads. Moreover, it supports waterfalls based on **Remote Config** (optional), so you can ad priority at runtime based on eCPM data.
+Install ad network plugins, setup app keys and placement IDs. And then just show ads with 1 call. You don't need to learn SDK docs, initialize plugins, load and reload ads, subscribe to events an other boring things. The wrapper hides low-level things and provides unified high-level functions like showing ads. Moreover, it supports waterfalls based on **Remote Config** (optional), so you can set ad priority at runtime based on eCPM data.
 
 ### Features
 * Supported networks: `IronSouce/LevelPlay`, `UnityAds (Advertisement Legacy)`, `AdMob`, `Vungle`, `YandexAds`
